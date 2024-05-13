@@ -4,7 +4,7 @@
 <table  align="center">
     <!--=== قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="400">
         &nbsp;&nbsp
             <a href="https://github.com/fahadssgg">
                 <img src="https://avatars.githubusercontent.com/u/107389887?v=4" width="50">
@@ -22,7 +22,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/fahadssgg">
-                            <img src="./images/github-logo.png" width="251">
+                            <img src="./images/github-logo.png" width="25">
                         </a>
                     </td>
                     <!--// GITHUB //-->
