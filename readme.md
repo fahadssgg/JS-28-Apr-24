@@ -8,10 +8,8 @@
         &nbsp;&nbsp
             <a href="https://github.com/fahadssgg">
                 <img src="https://avatars.githubusercontent.com/u/107389887?v=4" width="50">
-                <br>
                 <h2> فهد الغامدي</h2>
-            </a>
-            <br>            
+            </a>       
             <table>
                 <tr> 
                     <!-- LINKED IN -->
