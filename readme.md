@@ -15,14 +15,14 @@
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/fahad-saad-alghamdi/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="./images/linkedin-logo.png" width="25">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/fahadssgg">
-                            <img src="./images/github-logo.png" width="30">
+                            <img src="./images/github-logo.png" width="251">
                         </a>
                     </td>
                     <!--// GITHUB //-->
