@@ -151,7 +151,7 @@
         <td align="center" width="400">
         &nbsp;&nbsp
             <a href="https://github.com/EmanTalal/JS-28-Apr-24">
-                <img src="./images/download.png" width="50">
+                <img src="./images/eman.jpg" width="50">
                 <h2>  Eman Talal</h2>
             </a>
             <table>
