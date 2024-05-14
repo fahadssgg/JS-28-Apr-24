@@ -40,7 +40,7 @@
         &nbsp;&nbsp
             <a href="https://github.com/Yazeed0xx">
                 <img src="167139899.png" width="50">
-                <h2> فهد الغامدي</h2>
+                <h2> يزيد الثنيان</h2>
             </a>       
             <table>
                 <tr> 
@@ -53,7 +53,7 @@
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/fahadssgg">
+                        <a href="https://github.com/Yazeed0xx">
                             <img src="./images/github-logo.png" width="25">
                         </a>
                     </td>
