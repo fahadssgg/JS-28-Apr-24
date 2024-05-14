@@ -291,5 +291,34 @@
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= -->
+            <!--=== قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
+<tr>
+        <td align="center" width="400">
+        &nbsp;&nbsp
+            <a href="https://github.com/ZiadAlsaedi">
+                <img src="https://www12.0zz0.com/2024/05/14/16/150194550.jpg" width="50">
+                <h2> زياد الصاعدي</h2>
+            </a>
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="http://linkedin.com/in/ziad-alsaedi-4671841b7">
+                            <img src="./images/linkedin-logo.png" width="25">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/ZiadAlsaedi">
+                            <img src="./images/github-logo.png" width="25">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <!-- ======== نهاية مكان النسخ ========= -->
 
 </table>
