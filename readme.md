@@ -447,7 +447,7 @@
                 <tr> 
                     <!-- LINKED IN -->
                     <td>
-                        <a href=" https://www.linkedin.com/in/amal-alotaibi-985642259">
+                        <a href="https://www.linkedin.com/in/amal-alotaibi-985642259">
                             <img src="./images/linkedin-logo.png" width="25">
                         </a>
                     </td>
