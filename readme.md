@@ -151,7 +151,7 @@
         <td align="center" width="400">
         &nbsp;&nbsp
             <a href="https://github.com/dashboard">
-                <img src="/user.png" width="50">
+                <img src="/images/sul.png" width="50">
                 <h2>haila nasser</h2>
             </a>       
             <table>
