@@ -440,21 +440,21 @@
         <td align="center" width="400">
         &nbsp;&nbsp
             <a href="https://github.com/ammalgh">
-                <img src="blob:https://web.whatsapp.com/75d3c7f4-880f-4b75-8e51-463a8f5e2219" width="50">
+                <img src="./images/Yazeed.png" width="50">
                 <h2> Amal</h2>
             </a>
             <table>
                 <tr> 
                     <!-- LINKED IN -->
                     <td>
-                        <a href=" https://www.linkedin.com/in/amal-alotaibi-985642259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+                        <a href=" https://www.linkedin.com/in/amal-alotaibi-985642259">
                             <img src="./images/linkedin-logo.png" width="25">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/fahadssgg">
+                        <a href="">
                             <img src="./images/github-logo.png" width="25">
                         </a>
                     </td>
