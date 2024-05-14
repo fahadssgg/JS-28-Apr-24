@@ -92,9 +92,6 @@
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= -->
-
-    <!-- CONTRIBUTER -->
-<table  align="center">
     <!--=== قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
     <tr>
         <td align="center" width="400">
@@ -118,15 +115,12 @@
                             <img src="./images/github-logo.png" width="25">
                         </a>
                     </td>
-                    <!--// GITHUB //-->
                 </tr>
             </table>            
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= -->
-
-
-
+  <!--=== قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
  <tr>
         <td align="center" width="400">
         &nbsp;&nbsp
@@ -149,13 +143,9 @@
                             <img src="./images/github-logo.png" width="25">
                         </a>
                     </td>
-                    <!--// GITHUB //-->
                 </tr>
             </table>            
         </td>
     </tr>
-
-
-
 </table>
 
