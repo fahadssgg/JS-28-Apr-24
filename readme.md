@@ -31,5 +31,31 @@
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= -->
-
+    <tr>
+        <td align="center" width="400">
+        &nbsp;&nbsp
+            <a href="https://github.com/FatimahHabib84">
+                <img src="fatimah_habib.png" width="50">
+                <h2> فاطمة حبيب الشومري</h2>
+            </a>       
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/fatimah-alshawmari-83797227b/">
+                            <img src="./images/linkedin-logo.png" width="25">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/FatimahHabib84">
+                            <img src="./images/github-logo.png" width="25">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
 </table>
