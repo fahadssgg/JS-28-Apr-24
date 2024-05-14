@@ -35,7 +35,7 @@
     <tr>
         <td align="center" width="400">
         &nbsp;&nbsp
-            <a href="https://github.com/MeznahAldossar">
+            <a href="https://github.com/MeznahAldossari/">
                 <img src="./images/user.png" width="50">
                 <h2>  مزنه الدوسري</h2>
             </a>
