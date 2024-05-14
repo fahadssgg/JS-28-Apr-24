@@ -2,7 +2,7 @@
 
 <!-- CONTRIBUTER -->
 <table  align="center">
-  <div  align="center">
+  <div style="display:flex;"  align="center">
     <!--=== قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
     <tr>
         <td align="center" width="400">
