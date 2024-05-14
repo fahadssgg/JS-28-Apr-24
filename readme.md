@@ -39,7 +39,7 @@
         <td align="center" width="400">
         &nbsp;&nbsp
             <a href="https://github.com/Yazeed0xx">
-                <img src="167139899.png" width="50">
+                <img src="/images/Yazeed.png.png" width="50">
                 <h2> يزيد الثنيان</h2>
             </a>       
             <table>
