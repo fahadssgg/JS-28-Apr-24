@@ -35,7 +35,7 @@
         <td align="center" width="400">
         &nbsp;&nbsp
             <a href="https://github.com/FatimahHabib84">
-                <img src="fatimah-habib-img.jpg" width="50">
+                <img src="./images/fatimah-habib-img.jpg" width="50">
                 <h2> فاطمة حبيب الشومري</h2>
             </a>       
             <table>
