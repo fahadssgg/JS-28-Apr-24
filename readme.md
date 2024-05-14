@@ -37,7 +37,7 @@
         &nbsp;&nbsp
             <a href="https://github.com/Alhaqbani21">
                 <img src="https://avatars.githubusercontent.com/u/94962409?v=4" width="50">
-                <h2> فهد الغامدي</h2>
+                <h2> عبدالعزيز الحقباني</h2>
             </a>       
             <table>
                 <tr> 
