@@ -43,7 +43,7 @@
                 <tr> 
                     <!-- LINKED IN -->
                     <td>
-                        <a href="www.linkedin.com/in/abdulaziz-alshammari-b580a9276">
+                        <a href="www.linkedin.com/in/abdulaziz-alshammari-b580a9276/">
                             <img src="./images/linkedin-logo.png" width="25">
                         </a>
                     </td>
