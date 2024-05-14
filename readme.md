@@ -8,7 +8,7 @@
         &nbsp;&nbsp
             <a href="https://github.com/fahadssgg">
                 <img src="https://avatars.githubusercontent.com/u/94014317?v=4" width="50">
-                <h2> فهد الغامدي</h2>
+                <h2> Fatimah Hakami</h2>
             </a>       
             <table>
                 <tr> 
